@@ -1,5 +1,6 @@
 // Copyright The Linux Foundation and each contributor to CommunityBridge.
 // SPDX-License-Identifier: MIT
+// jpalmer test only
 
 const addHeaders = require('./add-headers');
 const setCacheControl = require('./set-cache-control');
